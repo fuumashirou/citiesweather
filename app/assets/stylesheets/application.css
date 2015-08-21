@@ -11,5 +11,8 @@
  * file per style scope.
  *
  *= require_tree .
+ * =require bootstrap_and_overrides
+ * =require theme_styles
  *= require_self
+
  */
